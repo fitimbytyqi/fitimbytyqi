@@ -8,7 +8,7 @@
 #I love to connect with people, so feel free to reach out at any connection links above 🙂.
 
 [![Linkedin Badge](https://img.shields.io/badge/-fitimbytyqi-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fitimbytyqi/)](https://www.linkedin.com/in/fitimbytyqi/)
-[![Upwork Badge](https://img.shields.io/badge/fitimbyttyqi-6FDA44?style=flat-square&logo=Upwork&logoColor=white&link=https://www.upwork.com/freelancers/~0194a6a44825a1fa95/)](https://www.upwork.com/freelancers/~0105c450adf00fea61/)
+[![Upwork Badge](https://img.shields.io/badge/fitimbyttyqi-6FDA44?style=flat-square&logo=Upwork&logoColor=white&link=https://www.upwork.com/freelancers/~0194a6a44825a1fa95/)](https://www.upwork.com/freelancers/~0194a6a44825a1fa95/)
 [![Devto Badge](https://img.shields.io/badge/fitimbyttyqi-0A0A0A?style=flat-square&logo=devdotto&logoColor=white&link=https://dev.to/fitimbyttyqi/)](https://dev.to/fitimbyttyqi/)
 
 ## ⚡ Technologies
