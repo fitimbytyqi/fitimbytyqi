@@ -1,7 +1,7 @@
 ## Hi there, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-#I'm currently working at Innovative Solutions SRL as a Javascript Engineer (mostly doing ReactJS and a bit of React Native).<br />
-#I'm still a Junior/Mid Javascript Engineer, but with high eagerness to learn new things every day and use those skills to increase my knowledge and help others in any way I can.<br />
+#I'm currently working at Innovative Solutions SRL as a Javascript Developer (mostly doing ReactJS and a bit of React Native).<br />
+#I'm still a Junior/Mid Javascript Developer, but with high eagerness to learn new things every day and use those skills to increase my knowledge and help others in any way I can.<br />
 #You will consistently find me looking for new things to learn because I believe that consistency is the key to success.<br />
 #I like to build quality, user-friendly web applications using MERN or PERN Stack.<br />
 #I am a communicative and friendly guy with a good attitude and I am mostly self-learned.<br />
