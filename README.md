@@ -1,11 +1,14 @@
-## Hi there, <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+Hello folks <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-#I'm currently working at Innovative Solutions SRL as a Javascript Developer (mostly doing ReactJS / NextJS and a bit of React Native).<br />
-#I'm still a Junior/Mid Javascript Developer, but with high eagerness to learn new things every day and use those skills to increase my knowledge and help others in any way I can.<br />
-#You will consistently find me looking for new things to learn because I believe that consistency is the key to success.<br />
-#I like to build quality, user-friendly web applications using MERN or PERN Stack.<br />
-#I am a communicative and friendly guy with a good attitude and I am mostly self-learned.<br />
-#I love to connect with people, so feel free to reach out at any connection links above 🙂.
+I'm a JavaScript Developer with three years of professional experience, deeply engaged in mastering web development. This year, I've expanded my role to include team leadership, where I'm helping and guiding my team towards innovative solutions for production-ready products.</br>
+
+I identify myself as Md JavaScript | React | React Native | NextJs | NodeJs | ExpressJs | NestJs, developer.</br>
+
+I believe in the power of consistency. Learning something new each day keeps me on a constant path of growth and improvement. I believe such mindset is the key to success in tech landscape.</br>
+
+Connecting with like-minded individuals is something I love doing, so don't hesitate to reach out. Whether you're looking for collaboration, need advice, or just want to chat about the latest in web technologies, I'm all ears!</br>
+
+Let's embark on this exciting journey together. #developer #lead #friendly #opensourceenthusiast
 
 [![Linkedin Badge](https://img.shields.io/badge/-fitimbytyqi-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fitimbytyqi/)](https://www.linkedin.com/in/fitimbytyqi/)
 [![Upwork Badge](https://img.shields.io/badge/fitimbyttyqi-6FDA44?style=flat-square&logo=Upwork&logoColor=white&link=https://www.upwork.com/freelancers/~0194a6a44825a1fa95/)](https://www.upwork.com/freelancers/~0194a6a44825a1fa95/)
