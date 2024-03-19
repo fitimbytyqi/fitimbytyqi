@@ -49,4 +49,4 @@ Let's embark on this exciting journey together. #developer #lead #friendly #open
 
 #### Github Stats
 
-![Github Stats](https://github-readme-stats-one-bice.vercel.app/api?username=fitimbyttyqi&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
+![Github Stats](https://github-readme-stats-one-bice.vercel.app/api?username=fitimbytyqi&count_private=true&show_icons=true&include_all_commits=true&theme=github_dark&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR)
