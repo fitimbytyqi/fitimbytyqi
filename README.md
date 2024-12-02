@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-I'm a JavaScript Developer with three years of professional experience, deeply engaged in mastering web development. This year, I've expanded my role to include team leadership, where I'm helping and guiding my team towards innovative solutions for production-ready products.</br>
+I'm a JavaScript Developer with four years of professional experience, deeply engaged in mastering web development. This year, I've expanded my role to include team leadership, where I'm helping and guiding my team towards innovative solutions for production-ready products.</br>
 
 I believe in the power of consistency. Learning something new each day keeps me on a constant path of growth and improvement. I believe such mindset is the key to success in tech landscape.</br>
 
